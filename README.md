@@ -2,7 +2,9 @@
 _______________________
 
 ***RESOURCES:***
-SOFTWARE: Jupyter Notebook, Python, VSC
+
+SOFTWARE: Jupyter Notebook, Pandas, Anaconda, Python, VSC
+
 DATA: credit_risk_resampling_starter_code.ipynb, credit_risk_ensemble_starter_code.ipynb, LoanStats-2019Q1
 ___________________
 
