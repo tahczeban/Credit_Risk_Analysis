@@ -19,10 +19,10 @@ dataset LendingClub
 oversample with RandomOverSampler and SMOTE algos
 and combo of over/under-sampling with SMOTEENN
 compare 2 ML models with BalancedRandomForestClassifier and EasyEsembleClassifier
-to eval performance of each and determine if they should be used to preict credit risk
+to eval performance of each and determine if they should be used to predict credit risk
 ________________
 
-
+***RESULTS:***
 
 <img width="1030" alt="Del1-load data" src="https://user-images.githubusercontent.com/90135381/156424382-f51773d6-434b-435f-9c41-0f3707642dd4.png">
 
@@ -63,12 +63,14 @@ ________________
 
 
 
-***RESULTS:***
+
 ______________
 
 ***SUMMARY:***
-_____________
 
+
+
+_____________
 
 ***REFERENCES:*** BCS, Google, GitHub, StackOverflow
 
