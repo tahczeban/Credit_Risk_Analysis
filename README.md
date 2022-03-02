@@ -24,7 +24,7 @@ ________________
 
 ***RESULTS:***
 
-***DELIVERABLE1:USE RESAMPLING MODELS TO PREDICT CREDIT RISK***
+***DELIVERABLE 1:USE RESAMPLING MODELS TO PREDICT CREDIT RISK***
 
 For this Deliverable, both the imbalanced-learn and scikit-learn libraries will be utilized to evaluate three ML models via resampling (RandomOverSampler, SMOTE, ClusterCentroids) to see which is the most appropriate for predicting credit risk. After resampling, the count of the target classes will be scrutinized, a logistic regression classifier will be trained, a balanced accuracy score will be calculated, a confusion matrix will be generated, as well as an imbalanced classification report for analysis.
 
@@ -85,7 +85,12 @@ The last Deliverable will implement imblearn.ensemble library to train/compare t
 
 
 
-
+NAIVE RANDOM OVERSAMPLING
+SMOTE OVERSAMPLING
+UNDERSAMPLING
+SMOTEENN
+BALANCED RANDOM FOREST CLASSIFIER
+EASY ENSEMBLE ADABOOST CLASSIFIER
 ______________
 
 ***SUMMARY:***
