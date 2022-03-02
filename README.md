@@ -87,63 +87,63 @@ The last Deliverable will implement imblearn.ensemble library to train/compare t
 
 NAIVE RANDOM OVERSAMPLING:
 
-accuracy:
+-accuracy:
 
-precision:
+-precision:
 
-Recall:
+-recall:
 
-F1:
+-F1:
 
 SMOTE OVERSAMPLING:
 
-accuracy:
+-accuracy:
 
-precision:
+-precision:
 
-Recall:
+-recall:
 
-F1:
+-F1:
 
 UNDERSAMPLING:
 
-accuracy:
+-accuracy:
 
-precision:
+-precision:
 
-Recall:
+-recall:
 
-F1:
+-F1:
 
 SMOTEENN:
 
-accuracy:
+-accuracy:
 
-precision:
+-precision:
 
-Recall:
+-recall:
 
-F1:
+-F1:
 
 BALANCED RANDOM FOREST CLASSIFIER:
 
-accuracy:
+-accuracy:
 
-precision:
+-precision:
 
-Recall:
+-recall:
 
-F1:
+-F1:
 
 EASY ENSEMBLE ADABOOST CLASSIFIER:
 
-accuracy:
+-accuracy:
 
-precision:
+-precision:
 
-Recall:
+-recall:
 
-F1:
+-F1:
 
 
 <img width="1246" alt="Table of Results" src="https://user-images.githubusercontent.com/90135381/156467380-8d9622a4-93c1-4fc2-9ced-57143c9503c8.png">
