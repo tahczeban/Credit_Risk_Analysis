@@ -10,6 +10,16 @@ ___________________
 
 
 ***OVERVIEW:***
+Help Jill
+credit card risk
+data prep, stats, machine learning
+load data to Jupyter Notebook
+train and test data with imbalanced-learn and scikit-learn
+dataset LendingClub
+oversample with RandomOverSampler and SMOTE algos
+and combo of over/under-sampling with SMOTEENN
+compare 2 ML models with BalancedRandomForestClassifier and EasyEsembleClassifier
+to eval performance of each and determine if they should be used to preict credit risk
 ________________
 
 
