@@ -14,6 +14,14 @@ ________________
 
 <img width="1440" alt="Del1-split into train:test" src="https://user-images.githubusercontent.com/90135381/156422992-f0091797-6ae9-4949-b28d-cfc395f9b4aa.png">
 
+<img width="1440" alt="Del1-Naive Random Oversampling" src="https://user-images.githubusercontent.com/90135381/156423491-2ff0afe2-84e0-4e5a-a147-998cd4147de9.png">
+
+<img width="1440" alt="Del1-SMOTE Oversampling" src="https://user-images.githubusercontent.com/90135381/156423502-2c4c43a5-b7fe-4745-98d1-81acd3046653.png">
+
+
+
+<img width="1440" alt="Del1-Undersampling" src="https://user-images.githubusercontent.com/90135381/156423510-a249b220-43c4-4a51-8494-e5b2ef51c8e8.png">
+
 
 
 <img width="1440" alt="Del2_Combo Sampling" src="https://user-images.githubusercontent.com/90135381/156423037-149ee0f2-b029-4ad0-9009-6a1accc39232.png">
