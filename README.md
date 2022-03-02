@@ -12,7 +12,7 @@ ___________________
 ***OVERVIEW:***
 Help Jill
 credit card risk
-data prep, stats, machine learning
+data prep, stats, machine learning (ML)
 load data to Jupyter Notebook
 train and test data with imbalanced-learn and scikit-learn
 dataset LendingClub
@@ -26,6 +26,7 @@ ________________
 
 ***DELIVERABLE1:USE RESAMPLING MODELS TO PREDICT CREDIT RISK***
 
+For this Deliverable, both the imbalanced-learn and scikit-learn libraries will be utilized to evaluate three ML models via resampling (RandomOverSampler, SMOTE, ClusterCentroids) to see which is the most appropriate for predicting credit risk. After resampling, the count of the target classes will be scrutinized, a logistic regression classifier will be trained, a balanced accuracy score will be calculated, a confusion matrix will be generated, as well as a classification report for analysis.
 
 <img width="1030" alt="Del1-load data" src="https://user-images.githubusercontent.com/90135381/156424382-f51773d6-434b-435f-9c41-0f3707642dd4.png">
 
@@ -83,8 +84,8 @@ ________________
 ______________
 
 ***SUMMARY:***
-
-
+Therefore, the results are:
+Recommendation of model
 
 _____________
 
