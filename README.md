@@ -85,68 +85,69 @@ The last Deliverable will implement imblearn.ensemble library to train/compare t
 
                                  FIGURE 10: Easy Ensemble AdaBoost Classifier
 
-
+***BULLETED RESULTS***
 
 NAIVE RANDOM OVERSAMPLING:
 
--accuracy:
+-accuracy: 64.56=64.56%
 
--precision:
+-precision: 0.99=99%
 
--recall:
+-recall: 0.64=64%
 
--F1:
+-F1: 0.77=77%
 
 SMOTE OVERSAMPLING:
 
--accuracy:
+-accuracy: 0.6234=62.34%
 
--precision:
+-precision: 0.99=99%
 
--recall:
+-recall: 0.64=64%
 
--F1:
+-F1: 0.77=77%
 
 UNDERSAMPLING:
 
--accuracy:
+-accuracy: 0.6234=62.34%
 
--precision:
+-precision: 0.99=99%
 
--recall:
+-recall: 0.46=46%
 
--F1:
+-F1: 0.63=63%
 
 SMOTEENN:
 
--accuracy:
+-accuracy: 0.5177=51.77%
 
--precision:
+-precision: 0.99=99%
 
--recall:
+-recall: 0.58=58%
 
--F1:
+-F1: 0.73=73%
 
 BALANCED RANDOM FOREST CLASSIFIER:
 
--accuracy:
+-accuracy: 0.7877=78.77%
 
--precision:
+-precision: 0 99=99%
 
--recall:
+-recall: 0.91=91%
 
--F1:
+-F1: 0.95=95%
 
 EASY ENSEMBLE ADABOOST CLASSIFIER:
 
--accuracy:
+-accuracy: 0.9254=92.54%
 
--precision:
+-precision: 0.99=99%
 
--recall:
+-recall: 0.94=94%
 
--F1:
+-F1: 0.97=97%
 
+***RESULTS IN TABULAR FORMAT***
 
 <img width="1246" alt="Table of Results" src="https://user-images.githubusercontent.com/90135381/156467380-8d9622a4-93c1-4fc2-9ced-57143c9503c8.png">
 
