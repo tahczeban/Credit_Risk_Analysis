@@ -24,6 +24,8 @@ ________________
 
 ***RESULTS:***
 
+***DELIVERABLE1:USE RESAMPLING MODELS TO PREDICT CREDIT RISK***
+
 <img width="1030" alt="Del1-load data" src="https://user-images.githubusercontent.com/90135381/156424382-f51773d6-434b-435f-9c41-0f3707642dd4.png">
 
 
@@ -42,10 +44,12 @@ ________________
 
 <img width="841" alt="Del1-Undersampling" src="https://user-images.githubusercontent.com/90135381/156424442-02c9ea16-fe31-434a-a687-af031cb35edc.png">
 
-
+***DELIVERABLE 2: USE THE SMOTEENN ALGORITHM TO PREDICT CREDIT RISK***
 
 <img width="865" alt="Del2_Combo Sampling" src="https://user-images.githubusercontent.com/90135381/156424462-e60ea7c6-8806-49ef-b2f1-fa1262caf43f.png">
 
+
+***DELIVERABLE 3: USE ENSEMBLE CLASSIFIERS TO PREDICT CREDIT RISK***
 
 <img width="958" alt="Del3-load data" src="https://user-images.githubusercontent.com/90135381/156424475-435c8302-f1b1-487a-b6db-1d155f5fac65.png">
 
