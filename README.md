@@ -26,7 +26,7 @@ ________________
 
 ***DELIVERABLE1:USE RESAMPLING MODELS TO PREDICT CREDIT RISK***
 
-For this Deliverable, both the imbalanced-learn and scikit-learn libraries will be utilized to evaluate three ML models via resampling (RandomOverSampler, SMOTE, ClusterCentroids) to see which is the most appropriate for predicting credit risk. After resampling, the count of the target classes will be scrutinized, a logistic regression classifier will be trained, a balanced accuracy score will be calculated, a confusion matrix will be generated, as well as a classification report for analysis.
+For this Deliverable, both the imbalanced-learn and scikit-learn libraries will be utilized to evaluate three ML models via resampling (RandomOverSampler, SMOTE, ClusterCentroids) to see which is the most appropriate for predicting credit risk. After resampling, the count of the target classes will be scrutinized, a logistic regression classifier will be trained, a balanced accuracy score will be calculated, a confusion matrix will be generated, as well as an imbalanced classification report for analysis.
 
 <img width="1030" alt="Del1-load data" src="https://user-images.githubusercontent.com/90135381/156424382-f51773d6-434b-435f-9c41-0f3707642dd4.png">
 
@@ -54,11 +54,16 @@ For this Deliverable, both the imbalanced-learn and scikit-learn libraries will 
 
 ***DELIVERABLE 2: USE THE SMOTEENN ALGORITHM TO PREDICT CREDIT RISK***
 
+With the aforementioned libraries, this Deliverable will address over/under-sampling with SMOTEENN and comppare the results with those obtained in Deliverable 1, in order to determine if this algorithm is better at determining credit risk.
+
+
 <img width="865" alt="Del2_Combo Sampling" src="https://user-images.githubusercontent.com/90135381/156424462-e60ea7c6-8806-49ef-b2f1-fa1262caf43f.png">
 
                                              FIGURE 6: Combo (Over/Under) Sampling
 
 ***DELIVERABLE 3: USE ENSEMBLE CLASSIFIERS TO PREDICT CREDIT RISK***
+
+The last Deliverable will implement imblearn.ensemble library to train/compare the data to that of the prior Deliverable data with BalancedRandomForestClassifier and EasyEnsembleClassifier.
 
 <img width="958" alt="Del3-load data" src="https://user-images.githubusercontent.com/90135381/156424475-435c8302-f1b1-487a-b6db-1d155f5fac65.png">
 
