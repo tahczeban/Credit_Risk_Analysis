@@ -89,8 +89,14 @@ The last Deliverable will implement imblearn.ensemble library to train/compare t
 ______________
 
 ***SUMMARY:***
+
 Therefore, the results are:
-Recommendation of model
+accuracy scores
+precision scores
+F1 scores
+Recall scores 
+
+Recommendation of model:
 
 _____________
 
