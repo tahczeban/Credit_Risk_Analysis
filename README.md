@@ -49,19 +49,17 @@ For this Deliverable, both the imbalanced-learn and scikit-learn libraries were 
                          FIGURE 2: Split Into Train/Test
 
 
-<img width="1022" alt="Del1-Naive Random Oversampling" src="https://user-images.githubusercontent.com/90135381/156424408-6d07edae-32fc-4ba8-bf65-3d9df09def66.png">
 
                                              
                                              
                           FIGURE 3: Naive Random OverSampling
 
 
-<img width="1157" alt="Del1-SMOTE Oversampling" src="https://user-images.githubusercontent.com/90135381/156424417-5ae008d9-b645-4489-ab89-d66b33b94bc8.png">
 
                           FIGURE 4: SMOTE OverSampling
 
 
-<img width="841" alt="Del1-Undersampling" src="https://user-images.githubusercontent.com/90135381/156424442-02c9ea16-fe31-434a-a687-af031cb35edc.png">
+
 
                           FIGURE 5: UnderSampling (ClusterCentroids)
 
@@ -70,7 +68,6 @@ For this Deliverable, both the imbalanced-learn and scikit-learn libraries were 
 With the aforementioned libraries, this Deliverable will address the combinaion of over/under-sampling with SMOTEENN and compare the results with those obtained in Deliverable 1, in order to determine if this algorithm is better at calculating credit card risk.
 
 
-<img width="865" alt="Del2_Combo Sampling" src="https://user-images.githubusercontent.com/90135381/156424462-e60ea7c6-8806-49ef-b2f1-fa1262caf43f.png">
 
                             FIGURE 6: Combo (Over/Under) Sampling
 
