@@ -41,7 +41,7 @@ For this Deliverable, both the imbalanced-learn and scikit-learn libraries were 
 
 <img width="1030" alt="Del1-load data" src="https://user-images.githubusercontent.com/90135381/156424382-f51773d6-434b-435f-9c41-0f3707642dd4.png">
 
-                         FIGURE 1: Load Data
+                              FIGURE 1: Load Data
 
 
 <img width="981" alt="Del1-split into train:test" src="https://user-images.githubusercontent.com/90135381/156424398-435be2b2-ddd1-45b5-9bee-430cc9ebb3fd.png">
