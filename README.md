@@ -10,16 +10,14 @@ ___________________
 
 
 ***OVERVIEW:***
-Help Jill
-credit card risk
-data prep, stats, machine learning (ML)
-load data to Jupyter Notebook
-train and test data with imbalanced-learn and scikit-learn
-dataset LendingClub
-oversample with RandomOverSampler and SMOTE algos
-and combo of over/under-sampling with SMOTEENN
+The purpose of this challenge was to assist Jill assess credit card risk with various algorithms in machine learning, in order to determine which one is the most appropriate. This was completed by preprocessing and preparing the data, performing statistical measures and ML on a dataset obtained LendingClub.
+data prep, stats, machine learning (ML)dataset LendingClub
+1. load data to Jupyter Notebook
+2. train and test data with imbalanced-learn and scikit-learn
+3. 
+acombo of over/under-sampling with SMOTEENN
 compare 2 ML models with BalancedRandomForestClassifier and EasyEsembleClassifier
-to eval performance of each and determine if they should be used to predict credit risk
+eval performance of each and determine if they should be used to predict credit risk
 ________________
 
 ***RESULTS:***
@@ -52,7 +50,7 @@ For this Deliverable, both the imbalanced-learn and scikit-learn libraries will 
 
 <img width="841" alt="Del1-Undersampling" src="https://user-images.githubusercontent.com/90135381/156424442-02c9ea16-fe31-434a-a687-af031cb35edc.png">
 
-                                  FIGURE 5: UnderSampling
+                                  FIGURE 5: UnderSampling (ClusterCentroids)
 
 ***DELIVERABLE 2: USE THE SMOTEENN ALGORITHM TO PREDICT CREDIT RISK***
 
