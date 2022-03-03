@@ -48,15 +48,22 @@ For this Deliverable, both the imbalanced-learn and scikit-learn libraries were 
 
                          FIGURE 2: Split Into Train/Test
 
+<img width="1440" alt="Del1-corrected naive-sklearn" src="https://user-images.githubusercontent.com/90135381/156642336-7d43ec1a-4722-4ddc-a300-0f235e843847.png">
 
-
-                                             
+                        
                                              
                           FIGURE 3: Naive Random OverSampling
+                          
+                          
+<img width="1440" alt="Del1-corrected:smote" src="https://user-images.githubusercontent.com/90135381/156642387-6d314a3b-5c58-4089-a1da-ca860ad07f48.png">
+
 
 
 
                           FIGURE 4: SMOTE OverSampling
+                          
+                          
+<img width="1440" alt="D1correction-undersampling (r=45:f1=62)" src="https://user-images.githubusercontent.com/90135381/156642419-1d29812c-7fe9-43d1-95f0-49a844966c41.png">
 
 
 
@@ -66,6 +73,9 @@ For this Deliverable, both the imbalanced-learn and scikit-learn libraries were 
 ***DELIVERABLE 2: USE THE SMOTEENN ALGORITHM TO PREDICT CREDIT RISK***
 
 With the aforementioned libraries, this Deliverable will address the combinaion of over/under-sampling with SMOTEENN and compare the results with those obtained in Deliverable 1, in order to determine if this algorithm is better at calculating credit card risk.
+
+<img width="1440" alt="D2-corrected(A=51 90)" src="https://user-images.githubusercontent.com/90135381/156642455-c1355678-5097-469f-a81f-2a067f231684.png">
+
 
 
 
