@@ -10,7 +10,7 @@ ___________________
 
 
 ***OVERVIEW:***
-The purpose of this challenge was to assist Jill assess credit card risk with various algorithms in machine learning, in order to determine which one is the most appropriate. This was completed by preprocessing and preparing the data, performing statistical measures and ML on a dataset obtained LendingClub entailing the following steps:
+The purpose of this challenge was to assist Jill assess credit card risk with various algorithms in machine learning, in order to determine which one is the most appropriate. This was completed by preprocessing and preparing the data, performing statistical measures and ML on a dataset obtained by LendingClub and entailed the following steps:
 
 1. load data to Jupyter Notebook
 2. train and test data with imbalanced-learn and scikit-learn
@@ -22,14 +22,18 @@ The purpose of this challenge was to assist Jill assess credit card risk with va
 8. perform undersampling
 9. combo of over/under-sampling with SMOTEENN
 10. compare 2 ML models with BalancedRandomForestClassifier and EasyEsembleClassifier
-11. lastly, eval performance of each and determine if they should be used to predict credit risk
+11. lastly, evaluate the performance of each and determine if they should be used to predict credit risk
 ________________
 
 ***RESULTS:***
 
 ***DELIVERABLE 1:USE RESAMPLING MODELS TO PREDICT CREDIT RISK***
 
-For this Deliverable, both the imbalanced-learn and scikit-learn libraries will be utilized to evaluate three ML models via resampling (RandomOverSampler, SMOTE, ClusterCentroids) to see which is the most appropriate for predicting credit risk. After resampling, the count of the target classes will be scrutinized, a logistic regression classifier will be trained, a balanced accuracy score will be calculated, a confusion matrix will be generated, as well as an imbalanced classification report for analysis.
+For this Deliverable, both the imbalanced-learn and scikit-learn libraries were utilized to evaluate three ML models via resampling (RandomOverSampler, SMOTE, ClusterCentroids) to see which is the most appropriate for predicting credit risk. After resampling, the count of the target classes will be scrutinized, a logistic regression classifier will be trained, a balanced accuracy score will be calculated, a confusion matrix will be generated, as well as an imbalanced classification report for analysis. The statistical measures calculated included:
+accuracy-how close result is to the correct value (TP+TN/Total)
+precision-how reliable the positive classification is (TP/TP+FP)
+recall-the capacity of a classifier to find all the positive values (TP/TP+FN)
+F1-harmonic mean between precision and sensitivity (2(precision*sensitivity)/precision+sensitivity))
 
 <img width="1030" alt="Del1-load data" src="https://user-images.githubusercontent.com/90135381/156424382-f51773d6-434b-435f-9c41-0f3707642dd4.png">
 
