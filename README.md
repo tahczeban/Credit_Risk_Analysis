@@ -30,10 +30,14 @@ ________________
 ***DELIVERABLE 1:USE RESAMPLING MODELS TO PREDICT CREDIT RISK***
 
 For this Deliverable, both the imbalanced-learn and scikit-learn libraries were utilized to evaluate three ML models via resampling (RandomOverSampler, SMOTE, ClusterCentroids) to see which is the most appropriate for predicting credit risk. After resampling, the count of the target classes will be scrutinized, a logistic regression classifier will be trained, a balanced accuracy score will be calculated, a confusion matrix will be generated, as well as an imbalanced classification report for analysis. The statistical measures calculated included:
-accuracy-how close result is to the correct value (TP+TN/Total)
-precision-how reliable the positive classification is (TP/TP+FP)
-recall-the capacity of a classifier to find all the positive values (TP/TP+FN)
-F1-harmonic mean between precision and sensitivity (2(precision*sensitivity)/precision+sensitivity))
+
+-accuracy-how close result is to the correct value (TP+TN/Total)
+
+-precision-how reliable the positive classification is (TP/TP+FP)
+
+-recall-the capacity of a classifier to find all the positive values (TP/TP+FN)
+
+-F1-harmonic mean between precision and sensitivity (2(precision*sensitivity)/precision+sensitivity))
 
 <img width="1030" alt="Del1-load data" src="https://user-images.githubusercontent.com/90135381/156424382-f51773d6-434b-435f-9c41-0f3707642dd4.png">
 
@@ -153,24 +157,18 @@ EASY ENSEMBLE ADABOOST CLASSIFIER:
 -recall: 0.94=94%
 
 -F1: 0.97=97%
+______________
+
+***SUMMARY:***
 
 ***RESULTS IN TABULAR FORMAT***
 <img width="1246" alt="Table of Results" src="https://user-images.githubusercontent.com/90135381/156467380-8d9622a4-93c1-4fc2-9ced-57143c9503c8.png">
 
 
 
+Therefore; when considering the prior figures, lists and table, it can be ascertained that the Easy Ensemble Adaboost Classifier is the most appropriate machine learning model/algorithm for predicting credit card risk, as it out performed in ALL statistical categories. The accuracy score was 92.54% (the proximity of the result is close to the true value); all of the 6 ML models demonstrated 99% precision (high reliability); recall was 94% (high sensitivity); and a high F1 score 97% (balance between precision and sensitivity).
 
-______________
-
-***SUMMARY:***
-
-Therefore, the results are:
-accuracy scores
-precision scores
-F1 scores
-Recall scores 
-
-Recommendation of model:
+The recommendation of model conclusively is the Easy Ensemble Adaboost Classifier.
 
 _____________
 
