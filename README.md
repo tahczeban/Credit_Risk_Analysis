@@ -10,14 +10,15 @@ ___________________
 
 
 ***OVERVIEW:***
-The purpose of this challenge was to assist Jill assess credit card risk with various algorithms in machine learning, in order to determine which one is the most appropriate. This was completed by preprocessing and preparing the data, performing statistical measures and ML on a dataset obtained LendingClub.
-data prep, stats, machine learning (ML)dataset LendingClub
+The purpose of this challenge was to assist Jill assess credit card risk with various algorithms in machine learning, in order to determine which one is the most appropriate. This was completed by preprocessing and preparing the data, performing statistical measures and ML on a dataset obtained LendingClub entailing the following steps:
+
 1. load data to Jupyter Notebook
 2. train and test data with imbalanced-learn and scikit-learn
-3. 
-acombo of over/under-sampling with SMOTEENN
-compare 2 ML models with BalancedRandomForestClassifier and EasyEsembleClassifier
-eval performance of each and determine if they should be used to predict credit risk
+3. perform oversampling with Naive Random, then SMOTE ML's
+4. perform undersampling
+5. combo of over/under-sampling with SMOTEENN
+6. compare 2 ML models with BalancedRandomForestClassifier and EasyEsembleClassifier
+7. lastlyeval performance of each and determine if they should be used to predict credit risk
 ________________
 
 ***RESULTS:***
