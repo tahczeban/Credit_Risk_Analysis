@@ -27,9 +27,9 @@ ________________
 
 ***RESULTS:***
 
-***DELIVERABLE 1:USE RESAMPLING MODELS TO PREDICT CREDIT RISK***
+***DELIVERABLE 1: USE RESAMPLING MODELS TO PREDICT CREDIT RISK***
 
-For this Deliverable, both the imbalanced-learn and scikit-learn libraries were utilized to evaluate three ML models via resampling (RandomOverSampler, SMOTE, ClusterCentroids) to see which is the most appropriate for predicting credit risk. After resampling, the count of the target classes will be scrutinized, a logistic regression classifier will be trained, a balanced accuracy score will be calculated, a confusion matrix will be generated, as well as an imbalanced classification report for analysis. The statistical measures calculated included:
+For this Deliverable, both the imbalanced-learn and scikit-learn libraries were utilized to evaluate three ML models via resampling (RandomOverSampler, SMOTE, ClusterCentroids) to see which is the most appropriate for predicting credit card risk. After resampling, the count of the target classes were then scrutinized, a logistic regression classifier was trained, a balanced accuracy score was calculated, a confusion matrix was generated, as well as an imbalanced classification report for analysis. The statistical measures calculated are listed and defined as follows:
 
 -accuracy-how close result is to the correct value (TP+TN/Total)
 
@@ -67,7 +67,7 @@ For this Deliverable, both the imbalanced-learn and scikit-learn libraries were 
 
 ***DELIVERABLE 2: USE THE SMOTEENN ALGORITHM TO PREDICT CREDIT RISK***
 
-With the aforementioned libraries, this Deliverable will address over/under-sampling with SMOTEENN and comppare the results with those obtained in Deliverable 1, in order to determine if this algorithm is better at determining credit risk.
+With the aforementioned libraries, this Deliverable will address the combinaion of over/under-sampling with SMOTEENN and compare the results with those obtained in Deliverable 1, in order to determine if this algorithm is better at calculating credit card risk.
 
 
 <img width="865" alt="Del2_Combo Sampling" src="https://user-images.githubusercontent.com/90135381/156424462-e60ea7c6-8806-49ef-b2f1-fa1262caf43f.png">
@@ -76,7 +76,7 @@ With the aforementioned libraries, this Deliverable will address over/under-samp
 
 ***DELIVERABLE 3: USE ENSEMBLE CLASSIFIERS TO PREDICT CREDIT RISK***
 
-The last Deliverable will implement imblearn.ensemble library to train/compare the data to that of the prior Deliverable data with BalancedRandomForestClassifier and EasyEnsembleClassifier.
+The last Deliverable will implement imblearn.ensemble library to train/compare the data to that of the prior Deliverables' data with BalancedRandomForestClassifier and EasyEnsembleClassifier.
 
 <img width="958" alt="Del3-load data" src="https://user-images.githubusercontent.com/90135381/156424475-435c8302-f1b1-487a-b6db-1d155f5fac65.png">
 
@@ -166,9 +166,9 @@ ______________
 
 
 
-Therefore; when considering the prior figures, lists and table, it can be ascertained that the Easy Ensemble Adaboost Classifier is the most appropriate machine learning model/algorithm for predicting credit card risk, as it out performed in ALL statistical categories. The accuracy score was 92.54% (the proximity of the result is close to the true value); all of the 6 ML models demonstrated 99% precision (high reliability); recall was 94% (high sensitivity); and a high F1 score 97% (balance between precision and sensitivity).
+Therefore; when considering the prior figures, lists and table, it can be ascertained that the Easy Ensemble Adaboost Classifier is the most appropriate machine learning model/algorithm for predicting credit card risk, as it out performed in ALL statistical categories. The accuracy score was 92.54% (the proximity of the result is close to the true value); all of the 6 ML models demonstrated 99% precision (high reliability); recall was 94% (high sensitivity); and a high F1 score 97% was observed (balance between precision and sensitivity).
 
-The recommendation of model conclusively is the Easy Ensemble Adaboost Classifier.
+The recommendation of ML model conclusively is the Easy Ensemble Adaboost Classifier.
 
 _____________
 
