@@ -111,9 +111,9 @@ NAIVE RANDOM OVERSAMPLING:
 
 -precision: 0.99=99%
 
--recall: 0.64=64%
+-recall: 0.68=68%
 
--F1: 0.77=77%
+-F1: 0.81=81%
 
 SMOTE OVERSAMPLING:
 
@@ -131,13 +131,13 @@ UNDERSAMPLING:
 
 -precision: 0.99=99%
 
--recall: 0.46=46%
+-recall: 0.45=45%
 
--F1: 0.63=63%
+-F1: 0.62=62%
 
 SMOTEENN:
 
--accuracy: 0.5177=51.77%
+-accuracy: 0.5177=51.90%
 
 -precision: 0.99=99%
 
@@ -169,8 +169,8 @@ ______________
 ***SUMMARY:***
 
 ***RESULTS IN TABULAR FORMAT***
-<img width="1246" alt="Table of Results" src="https://user-images.githubusercontent.com/90135381/156467380-8d9622a4-93c1-4fc2-9ced-57143c9503c8.png">
 
+<img width="599" alt="Corrected Table" src="https://user-images.githubusercontent.com/90135381/156644500-98e27238-a7bd-4d20-b3c6-2d96c87fb613.png">
 
 
 Therefore; when considering the prior figures, lists and table, it can be ascertained that the Easy Ensemble Adaboost Classifier is the most appropriate machine learning model/algorithm for predicting credit card risk, as it out performed in ALL statistical categories. The accuracy score was 92.54% (the proximity of the result is close to the true value); all of the 6 ML models demonstrated 99% precision (high reliability); recall was 94% (high sensitivity); and a high F1 score 97% was observed (balance between precision and sensitivity).
