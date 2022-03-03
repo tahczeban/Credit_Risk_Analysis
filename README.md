@@ -148,7 +148,6 @@ EASY ENSEMBLE ADABOOST CLASSIFIER:
 -F1: 0.97=97%
 
 ***RESULTS IN TABULAR FORMAT***
-
 <img width="1246" alt="Table of Results" src="https://user-images.githubusercontent.com/90135381/156467380-8d9622a4-93c1-4fc2-9ced-57143c9503c8.png">
 
 
